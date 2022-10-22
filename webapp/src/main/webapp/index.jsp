@@ -77,7 +77,7 @@
       <p><a href="#">Product 3</a> <span class="price">$8</span></p>
       <p><a href="#">Product 4</a> <span class="price">$2</span></p>
       <hr>
-      <p>Total <span class="price" style="color:black"><b>$30</b></span></p>
+      <p>TOTAL <span class="price" style="color:black"><b>$30</b></span></p>
     </div>
   </div>
 </div>
